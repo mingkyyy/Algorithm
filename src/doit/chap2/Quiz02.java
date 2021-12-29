@@ -21,7 +21,7 @@ public class Quiz02 {
         Scanner stdIn = new Scanner(System.in);
 
         System.out.print("요솟수는 ：");
-        int num = stdIn.nextInt(); 
+        int num = stdIn.nextInt();
 
         int[] x = new int[num];
 
